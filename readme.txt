@@ -5,7 +5,7 @@ Features:
  * Tables data generation by customizable randomizers
  * Perfomance tests
  * Log to CSV
- * Generate perfomance chart image like <a href="http://dbench.googlecode.com/files/dbench_chart.png">this</a>
+ * Generate perfomance chart image like this http://dbench.googlecode.com/files/dbench_chart.png
 
 Project site:
 http://code.google.com/p/dbench
