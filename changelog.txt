@@ -1,0 +1,16 @@
+Release 1.3
+
+* Fixed: Tests query generation did not used random values
+
+Release 1.2
+
+* Added: Support of PostgreSQL
+* Added: Building to charts
+* Fixed: Tests average time calculation
+
+Release 1.0
+
+* Added: Support of MySQL
+* Added: Tables data generation by customizable randomizers
+* Added: Perfomance tests
+* Added: Log to CSV
