@@ -10,6 +10,13 @@ http://dbench.googlecode.com/svn/trunk
 GIT:
 https://github.com/barbushin/dbench.git
 
+Features:
+ * Support of MySQL and PostgreSQL
+ * Tables data generation by customizable randomizers
+ * Perfomance tests
+ * Log to CSV
+ * Generate perfomance chart image like <a href="http://dbench.googlecode.com/files/dbench_chart.png">this</a>
+
 Contact to developer (freelancer, looking for interesting web-projects):
 http://www.linkedin.com/in/barbushin
 
