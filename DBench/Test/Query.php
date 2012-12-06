@@ -1,8 +1,8 @@
 <?php
 
 /**
- * @see http://code.google.com/p/dbench
- * @author Barbushin Sergey http://www.linkedin.com/in/barbushin
+ * @see https://github.com/barbushin/dbench
+ * @author Barbushin Sergey http://linkedin.com/in/barbushin
  * 
  */
 
